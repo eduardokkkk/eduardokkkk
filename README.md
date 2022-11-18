@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hello wanderer! 👋
+
+<div>
+<a href="https://youtu.be/dQw4w9WgXcQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/eduardokkkjkk/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+![](https://dcbadge.vercel.app/api/shield/388688451173875728?style=for-the-badge&?theme=clean)
+</div>
 
 <!--
-**eduardokkkk/eduardokkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
