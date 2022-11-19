@@ -7,7 +7,7 @@
 ![](https://dcbadge.vercel.app/api/shield/388688451173875728?style=for-the-badge&?theme=clean)
 </div>
 
-![Snake animation](eduardokkkk)
+![Snake animation](https://github.com/eduardokkkk/eduardokkkk/blob/output/github-contribution-grid-snake.svg)
 
 
 
