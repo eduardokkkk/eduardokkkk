@@ -7,6 +7,10 @@
 ![](https://dcbadge.vercel.app/api/shield/388688451173875728?style=for-the-badge&?theme=clean)
 </div>
 
+![Snake animation](eduardokkkk)
+
+
+
 <!--
 
 Here are some ideas to get you started:
