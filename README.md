@@ -2,7 +2,7 @@
 ### publico meus projetinho aqui
 
 <div>
-<a href="https://youtu.be/dQw4w9WgXcQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://youtu.be/dQw4w9WgXcQ" target="_blank"><img src="https://img.shields.io/badge/Twitter-FF0000?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/eduardokkkjkk/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
