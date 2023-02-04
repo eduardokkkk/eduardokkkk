@@ -1,5 +1,7 @@
 ### Hello wanderer! 👋
 ### publico meus projetinho aqui
+[![Discord Presence](https://lanyard.cnrad.dev/api/739999089563009037?hideStatus=true)](https://discord.com/users/388688451173875728)
+
 ![Snake animation](https://github.com/eduardokkkk/eduardokkkk/blob/output/github-contribution-grid-snake.svg)
 
 
