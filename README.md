@@ -16,7 +16,7 @@
 
 <br>
 
-- Student, lazy(and probably should be studying more) 💀
+- 16 years old, student, lazy(and probably should be studying more) 💀
 - Playing Valorant on spare time!
 - Currently learning React by myself :heart:
 
