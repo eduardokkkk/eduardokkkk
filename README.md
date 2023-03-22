@@ -19,8 +19,6 @@
 - Student, lazy and probably should be studying more :sob:
 - Playing Valorant on spare time
 - Currently learning React by myself :heart:
-- Personal website [link](https://eduardokkkk.github.io)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
 
@@ -43,12 +41,7 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br>
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
+<br>    
 <br>
 
 - **Softwares i use!**:
