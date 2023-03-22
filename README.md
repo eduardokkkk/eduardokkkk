@@ -16,11 +16,11 @@
 
 <br>
 
-- Student, lazy and probably should be studying more :sob:
-- Playing Valorant on spare time
+- Student, lazy(and probably should be studying more) 💀:
+- Playing Valorant on spare time!
 - Currently learning React by myself :heart:
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
