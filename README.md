@@ -16,7 +16,7 @@
 
 <br>
 
-- Student, lazy(and probably should be studying more) 💀:
+- Student, lazy(and probably should be studying more) 💀
 - Playing Valorant on spare time!
 - Currently learning React by myself :heart:
 
